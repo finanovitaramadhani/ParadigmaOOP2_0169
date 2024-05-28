@@ -7,7 +7,7 @@ using namespace std;
 class Orang
 {
 public:
-    int umur;
+    int umur; 
 
     Orang(int pUmur) :
         umur(pUmur)
