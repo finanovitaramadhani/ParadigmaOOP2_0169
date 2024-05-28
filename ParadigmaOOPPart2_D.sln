@@ -11,6 +11,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "noPewarisan", "noPewarisan\
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "enkapsulasi", "enkapsulasi\enkapsulasi.vcxproj", "{CE3C82FE-ACF7-4435-9664-DD4329D45AE4}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "abstraksi", "abstraksi\abstraksi.vcxproj", "{C8308C86-C20D-4097-B46F-E697390A7F0C}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -51,6 +53,14 @@ Global
 		{CE3C82FE-ACF7-4435-9664-DD4329D45AE4}.Release|x64.Build.0 = Release|x64
 		{CE3C82FE-ACF7-4435-9664-DD4329D45AE4}.Release|x86.ActiveCfg = Release|Win32
 		{CE3C82FE-ACF7-4435-9664-DD4329D45AE4}.Release|x86.Build.0 = Release|Win32
+		{C8308C86-C20D-4097-B46F-E697390A7F0C}.Debug|x64.ActiveCfg = Debug|x64
+		{C8308C86-C20D-4097-B46F-E697390A7F0C}.Debug|x64.Build.0 = Debug|x64
+		{C8308C86-C20D-4097-B46F-E697390A7F0C}.Debug|x86.ActiveCfg = Debug|Win32
+		{C8308C86-C20D-4097-B46F-E697390A7F0C}.Debug|x86.Build.0 = Debug|Win32
+		{C8308C86-C20D-4097-B46F-E697390A7F0C}.Release|x64.ActiveCfg = Release|x64
+		{C8308C86-C20D-4097-B46F-E697390A7F0C}.Release|x64.Build.0 = Release|x64
+		{C8308C86-C20D-4097-B46F-E697390A7F0C}.Release|x86.ActiveCfg = Release|Win32
+		{C8308C86-C20D-4097-B46F-E697390A7F0C}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
